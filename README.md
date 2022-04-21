@@ -5,7 +5,6 @@ and can be serialized to JSON which enables cross-platform data exchange, e.g., 
 *digital-ink-library*.
 
 ## Stroke and Sketch Classes
-**TODO**
 
 ### Metadata
 `Stroke` and `Sketch` offer a field `meta` for storing/transferring additional meta-data. For pen strokes, this 
